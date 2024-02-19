@@ -4,7 +4,20 @@ and takes appropriate (defined) action against the user and message.
 ![image](https://github.com/Grommish/virustotal/assets/4427558/23aac5ec-d25e-4ed2-b21d-7d70de57121e)
 
 
+Installation:
+
+On the Host:
+Go into your RedBot-Discord data directory `/home/xxxx/RedBot-DiscordBot/<bot_instance>/cogs/CogManager/cogs/` and clone the repo:
+- `git clone https://github.com/Grommish/virustotal.git`
+
+This will download the repo into `/home/xxxx/RedBot-DiscordBot/<bot_instance>/cogs/CogManager/cogs/virustotal`
+
 Where `[p]` is RedBot's defined trigger.
+
+Inside Discord:
+- `[p]load virustotal`
+
+This will install the cog.
 
 Usage:
 
