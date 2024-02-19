@@ -3,6 +3,10 @@ and takes appropriate (defined) action against the user and message.
 
 ![image](https://github.com/Grommish/virustotal/assets/4427558/23aac5ec-d25e-4ed2-b21d-7d70de57121e)
 
+![image](https://github.com/Grommish/virustotal/assets/4427558/1dd75e4d-a54d-4a21-b99f-ec270ba2528c)
+![image](https://github.com/Grommish/virustotal/assets/4427558/4469bc50-8aab-40a2-8ea1-bac858a33942)
+
+
 
 Installation:
 
